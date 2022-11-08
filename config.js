@@ -4,24 +4,24 @@ const chalk = require('chalk')
 
 // Website Api
 global.APIs = {
-	zenz: 'https://zenzapis.xyz',
+	saipulanuar: 'https://saipulanuar.ga',
 }
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapis.xyz': '0e92565522',
+	'https://saipulanuar.ga': 'ZQ5mbiXy',
 }
 
 
-global.ownername = 'Xye Elite'
+global.ownername = 'Caca'
 global.Anticall = true
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['6285759151374','6285759151374','6285759151374']
-global.premium = ['6285759151374']
-global.packname = 'The Xye'
+global.owner = ['6285945393167','6285945393167','6285945393167']
+global.premium = ['6285945393167']
+global.packname = 'The Caca'
 global.author = 'WhatsApp Bot'
 global.wlcm = []
 global.sessionName = 'session'
